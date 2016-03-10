@@ -1,2 +1,4 @@
-# Lumos-Mer-Transmitter
-Autonomous Lighthouse with failure check
+# Lumos-Mer
+
+This project describe an Autonomous Lighthouse with failure check.
+
